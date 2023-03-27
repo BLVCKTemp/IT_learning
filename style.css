@@ -4,7 +4,7 @@ body{
     margin: 0;
 }
 
-.marked-list{
+.lists__marked-list{
     width: 46%;
     float: left;
     display: block;
@@ -13,7 +13,7 @@ body{
     margin: 1%;
 }
 
-.numbered-list{
+.lists__numbered-list{
     width: 46%;
     float: right;
     display: block;
